@@ -10,3 +10,7 @@
 - 国内用户
 
 > https://ghproxy.com/https://raw.githubusercontent.com/sumwai/clashnode/main/clash.yml
+
+## 配置选项
+
+![option](./screenshot/1.png)
