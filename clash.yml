@@ -8,7 +8,7 @@ proxies:
   name: '[香港] 腾讯轻量云服务器'
   password: sumwai
   port: 34567
-  server: 43.129.173.75
+  server: 43.134.207.192 
   type: ss
 proxy-groups:
 - name: 🚀 节点选择
